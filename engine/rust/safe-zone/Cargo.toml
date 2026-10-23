@@ -1,0 +1,9 @@
+[package]
+name = "battlezone-safe-zone"
+version = "0.1.0"
+edition = "2021"
+description = "Safe-zone math prototype for BATTLEZONE: FIRESTORM"
+license = "MIT"
+
+[lib]
+path = "src/lib.rs"
